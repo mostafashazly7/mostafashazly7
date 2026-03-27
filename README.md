@@ -49,9 +49,10 @@
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
-
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <a href="https://github.com/mostafashazly7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="52" height="40" alt="github logo" />
+  </a>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo" />
 </div>
