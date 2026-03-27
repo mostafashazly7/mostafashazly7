@@ -2,6 +2,8 @@
 
 ---
 
+<img align="right" height="185" src="https://camo.githubusercontent.com/4a8b2cee14ccfa1add47e85364cdc866b3b327a33554e778febf3571d0ffa898/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6f773934714c474938577341414141432f61692e676966" alt="AI Image"/>
+
 <h3 align="left">👨‍💻 About Me</h3>
 
 <h4 align="left">
@@ -45,9 +47,5 @@
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter Logo"/>
 </div>
-
----
-
-<img align="right" height="185" src="https://camo.githubusercontent.com/4a8b2cee14ccfa1add47e85364cdc866b3b327a33554e778febf3571d0ffa898/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6f773934714c474938577341414141432f61692e676966" alt="AI Image"/>
 
 
