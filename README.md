@@ -56,4 +56,6 @@
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo" />
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake.svg)
+
 ###
