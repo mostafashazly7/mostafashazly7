@@ -1,61 +1,78 @@
-<h1 align="center">Welcome to Mostafa Shazly's profile!</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:1a1a2e&height=220&section=header&text=Mostafa%20Shazly&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20Engineering%20Student%20%7C%20Builder&descAlignY=58&descSize=18&descColor=58a6ff"/>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+%F0%9F%A7%A0;Machine+Learning+Enthusiast+%F0%9F%A4%96;Third-year+Engineering+Student+%F0%9F%8E%93;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mostafashazly7&style=for-the-badge&color=0a3d62&label=PROFILE+VIEWS" />
+</p>
 
-###
+---
 
-<h4 align="left">
-👋 I'm Mostafa from Egypt.<br>
-👨‍💻 I am currently a third-year engineering student.<br>
-⚡ In my all time learning and exploring new technologies to improve my skills.
-</h4>
+### 👨‍💻 About Me
+```yaml
+name      : "Mostafa Shazly"
+location  : "Egypt 🇪🇬"
+education : "Computer Engineering, Year 3"
+focus     : "Machine Learning & Deep Learning"
+learning  : "Neural Networks · Data Science · Computer Vision"
+goal      : "Build things that actually matter"
+status    : open_to_collaborations: true
+```
 
-###
+---
 
-<p align="left">Connect with Me :</p>
+### 🛠️ Tech Stack
 
-###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,git,github,vscode,linux&theme=dark" />
+</div>
 
-<img align="right" height="185" src="https://camo.githubusercontent.com/4a8b2cee14ccfa1add47e85364cdc866b3b327a33554e778febf3571d0ffa898/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6f773934714c474938577341414141432f61692e676966" />
+---
 
-###
+### 📊 GitHub Stats
 
-<div align="left">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mostafashazly7&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&dates=8b949e"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafashazly7&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/mostafashazly7?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/mostafashazly7?style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github&label=Stars"/>
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mostafa-shazly-148945314/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mostafashazly461@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/mostafashazly7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="52" height="40" alt="github logo" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Tech Stack</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake.svg"/>
+</picture>
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <a href="https://github.com/mostafashazly7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="52" height="40" alt="github logo" />
-  </a>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo" />
-</div>
-
-![Snake animation](https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake.svg)
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0a3d62,100:0d1117&height=120&section=footer"/>
