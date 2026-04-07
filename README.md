@@ -41,7 +41,7 @@ status    :
 > 🧠 Deep-diving into **Deep Learning** — CNNs, feature engineering
 > 📖 Exploring **Computer Vision** & **NLP** next
 > 💡 Working toward my first **open source contribution**
-> 🏆 Goal 2025: land my first **ML internship**
+> 🏆 Goal 2026: land my first **ML internship**
 
 <br clear="right"/>
 
@@ -54,10 +54,9 @@ status    :
 | Project | What I Built | Key Result |
 |---|---|---|
 | 🌾 [Crop Yield Prediction](https://github.com/mostafashazly7/crop-yield-prediction-ml) | 6-model ML regression pipeline on 28K+ records across 101 countries | **R² = 98.5%** (KNN), **CV R² = 98.0%** |
-| 😷 [Face Mask Detection](https://github.com/mostafashazly7/face-mask-detection) | Custom CNN trained on 7,553 images, binary classification | **Test Accuracy = 91.7%** |
 | 🛡️ [IEEE-CIS Fraud Pipeline](https://github.com/mostafashazly7/fraud-detection-feature-engineering-pipeline) | Feature engineering on 590K+ transactions, 433 features, dual notebook pipeline | **60% memory reduction** |
 | 💹 [Financial Fraud Preprocessing](https://github.com/mostafashazly7/financial-fraud-preprocessing) | End-to-end preprocessing pipeline on 2M+ transaction records via Git LFS | **2,000,000+ records** |
-| 💳 [Digital Wallet App](https://github.com/mostafashazly7/digital-wallet-app) | Full desktop PyQt5 fintech app with auth, transfers, history | **5 OOP principles** applied |
+| 😷 [Face Mask Detection](https://github.com/mostafashazly7/face-mask-detection) | Custom CNN trained on 7,553 images, binary classification | **Test Accuracy = 91.7%** |
 
 ---
 
@@ -77,7 +76,6 @@ status    :
 | TensorFlow / Keras | ██████░░░░ Intermediate | Face Mask CNN |
 | Scikit-Learn | ███████░░░ Intermediate | Crop Yield, Fraud Pipelines |
 | Pandas / NumPy | ████████░░ Advanced | All data projects |
-| PyQt5 | █████░░░░░ Intermediate | Digital Wallet App |
 | Data Preprocessing | ████████░░ Advanced | 2M+ record pipeline |
 
 </div>
@@ -101,7 +99,7 @@ status    :
 <div align="center">
   <img src="https://img.shields.io/github/stars/mostafashazly7?style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github&label=Total%20Stars"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Projects-5%20Public%20Repos-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Projects-4%20Public%20Repos-58a6ff?style=for-the-badge&labelColor=0d1117"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Data%20Processed-2.5M%2B%20Records-7ee787?style=for-the-badge&labelColor=0d1117"/>
 </div>
@@ -172,3 +170,4 @@ status    :
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0a3d62,100:0d1117&height=120&section=footer"/>
+```
