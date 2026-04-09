@@ -32,7 +32,7 @@ fun_fact  : "I debug faster after coffee ☕"
 status    :
 open_to_collaborations : true
 looking_for_internship : true
-currently_building     : "ML pipelines on real datasets"
+currently_building     : "ML Models"
 ```
 
 ### 🎯 Currently
