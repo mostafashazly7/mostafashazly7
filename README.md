@@ -30,7 +30,6 @@ learning  : "Neural Networks · Computer Vision · NLP"
 goal      : "Build things that actually matter"
 fun_fact  : "I debug faster after coffee ☕"
 open_to_collaborations : true
-looking_for_internship : true
 currently_building     : "ML Models"
 ```
 
