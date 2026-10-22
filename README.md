@@ -1,16 +1,13 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&height=260&text=Mostafa%20Shazly&fontSize=70&fontAlignY=38&color=0:060d18,50:0a3d62,100:1a1a2e&fontColor=58a6ff&animation=fadeIn&desc=Machine%20Learning%20%26%20Agentic%20AI%20Engineer%20in%20Progress%20%7C%20Egypt&descSize=18&descAlignY=60&descColor=8b949e" alt="header"/>
+  <img src="./assets/header.svg" width="100%" alt="Mostafa Shazly - Machine Learning and Agentic AI Engineer in Progress"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+intelligent+systems;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;590K%2B+rows+processed;2M%2B+records+cleaned;98.5%25+R%C2%B2+on+Crop+Yield;91.7%25+CNN+Accuracy;Open+to+collaborations" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostafashazly7&style=for-the-badge&color=0a3d62&label=PROFILE+VIEWS" alt="views"/>
   <img src="https://img.shields.io/github/followers/mostafashazly7?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=Followers" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/mostafashazly7?style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github&label=Stars" alt="stars"/>
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-58a6ff?style=for-the-badge&labelColor=0d1117" alt="focus"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-7ee787?style=for-the-badge&labelColor=0d1117" alt="status"/>
+  <img src="https://img.shields.io/badge/Location-Egypt-a78bfa?style=for-the-badge&labelColor=0d1117" alt="location"/>
 </p>
 
 ---
@@ -101,7 +98,7 @@ currently_building     : "ML Models"
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mostafashazly7&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&dates=8b949e&sideLabels=8b949e" alt="streak"/>
@@ -109,17 +106,11 @@ currently_building     : "ML Models"
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostafashazly7&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=0a3d62&custom_title=Contribution%20Graph" alt="activity graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/github/stars/mostafashazly7?style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github&label=Total%20Stars" alt="stars"/>
-  <img src="https://img.shields.io/github/followers/mostafashazly7?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=Followers" alt="followers"/>
-  <img src="https://img.shields.io/badge/Public%20Repos-4-58a6ff?style=for-the-badge&labelColor=0d1117" alt="repos"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ---
 
@@ -137,12 +128,4 @@ currently_building     : "ML Models"
   <i>"The best way to predict the future is to build it." — Alan Kay</i>
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mostafashazly7/mostafashazly7/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0a3d62,100:0d1117&height=120&section=footer" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
