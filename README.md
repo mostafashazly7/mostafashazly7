@@ -17,7 +17,7 @@
 ```yaml
 name      : "Mostafa Shazly"
 location  : "Egypt"
-education : "Computer & AI Engineering, Year 3"
+education : "Computer & AI Engineering, Year 4"
 focus     : "Machine Learning & Deep Learning"
 learning  : "Neural Networks · Computer Vision · NLP · Agentic AI"
 goal      : "Build things that actually matter"
